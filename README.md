@@ -1,4 +1,4 @@
-# 📊 Sales Dashboard using Power BI
+# 📊 ReSales Dashboard using Power BI
 
 ## 📌 Overview
 This project presents an interactive **ReSales Dashboard** built using Microsoft Power BI as part of the *Power BI for Beginners: Interactive Dashboard Fundamentals* certification on Coursera. It provides insights into sales performance, profit trends, and regional analysis.
